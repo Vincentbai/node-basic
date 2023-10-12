@@ -1,0 +1,24 @@
+# NPM
+
+## the version control in package.json 
+
+
+```js
+
+8 major version 3 miner version 2 patch
+
+^8.3.2 only can update the miner version and patch
+~8.3.2 only can update patch 
+8.3.2  no update
+*      can use the latest version
+
+```
+
+```bash
+npm i uuid@8.3.2 # install the specific version
+npm i uuid  # install the latest version
+
+npm update # npm will check the update ^8.3.2 the miner version and patch
+
+npm uninstall nodemon -D
+npm rm nodemon -g

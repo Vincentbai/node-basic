@@ -1,0 +1,4 @@
+20231006	15:50:45	e94de902-38a6-4888-8bee-1beb6992bfac	Error: Not allowed by CORS
+20231006	15:50:45	9e926e65-2d2b-4480-b038-f39ddb297971	Error: Not allowed by CORS
+20231006	16:17:52	5032dec6-ccd0-4b37-a9f0-2f0bad8dcb30	TypeError: req.accepted is not a function
+20231006	16:18:26	fb0dc2d5-c972-4725-8474-592b7ddd4d8f	TypeError: req.accept is not a function
